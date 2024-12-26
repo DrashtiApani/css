@@ -1,0 +1,49 @@
+*
+{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.container
+{
+	max-width:1400px;
+	margin:0 auto;
+}
+
+.main
+{
+	width:600px;
+	height:600px;
+	border:10px double DimGray;
+	background-color:GreenYellow;
+	margin:50px auto;
+	align-items:center;
+	justify-content:center;
+	display:flex;
+}
+.circle
+{
+	width:50px;
+	height:50px;
+	border-radius:45%;
+	border:5px dotted black;
+	animation-name:circle;
+	animation-duration:0.3s;
+	animation-iteration-count:infinite;
+	border-left-color:transparent;
+	border-right-color:transparent;
+	border-top-color:transparent;
+	
+}
+@keyframes circle
+{
+	0%{
+		transform:rotate(0deg) scale(1);
+	}
+	50%{
+		transform:rotate(180deg) scale(0.5);
+	}
+	100%{
+		transform:rotate(360deg) scale(1);
+	}
+}

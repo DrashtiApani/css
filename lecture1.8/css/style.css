@@ -1,0 +1,137 @@
+*
+{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	
+}
+.container
+{
+	margin:0 auto;
+	max-width:1000px;
+}
+.clear
+{
+	clear:both;
+}
+.box
+{
+	width:500PX;
+	height:300px;
+	border:2px solid lavender;
+	margin:10px 0px;
+	background-image:url('../image/historical.jpg');
+	background-position:center;
+	color:AliceBlue;
+	text-indent:90px;
+	background-color:rgba(0,0,0,0.5);
+	background-blend-mode:darken;
+	text-align:justify;
+	display:inline-block;
+	float:left;
+	background-attachment:fixed;
+	background-size:cover;
+    h1{text-align:right};
+	
+}
+
+.box1
+{
+	width:500PX;
+	height:300px;
+	border:2px solid lavender;
+	margin:10px 0px;
+	background-image:url('../image/historical.jpg');
+	background-position:center;
+	color:AliceBlue;
+	background-color:rgba(0,0,0,0.5);
+	background-blend-mode:darken;
+	text-align:justify;
+	display:inline-block;
+	float:right;
+    background-attachment:fixed;
+	background-size:cover;
+}
+	
+}
+.box2
+{
+	width:500PX;
+	height:300px;
+	border:2px solid lavender;
+	margin:10px 0px;
+	background-image:url('../image/historical.jpg');
+	background-position:center;
+	color:AliceBlue;
+	text-indent:90px;
+	background-color:rgba(0,0,0,0.5);
+	background-blend-mode:darken;
+	text-align:justify;
+	display:inline-block;
+	float:left;
+	background-attachment:fixed;
+	background-size:cover;
+}
+
+.box3
+{
+	width:500PX;
+	height:300px;
+	border:2px solid lavender;
+	margin:10px 0px;
+	background-image:url('../image/historical.jpg');
+	background-position:center;
+	color:AliceBlue;
+	background-color:rgba(0,0,0,0.5);
+	background-blend-mode:darken;
+	text-align:justify;
+	display:inline-block;
+	float:right;
+	background-attachment:fixed;
+	background-size:cover;
+}
+
+.box4
+{
+	width:500PX;
+	height:300px;
+	border:2px solid lavender;
+	margin:10px 0px;
+	background-image:url('../image/historical.jpg');
+	background-position:center;
+	color:AliceBlue;
+	background-color:rgba(0,0,0,0.5);
+	background-blend-mode:darken;
+	text-align:justify;
+	display:inline-block;
+	float:left;	
+	background-attachment:fixed;
+	background-size:cover;
+}
+
+.box5
+{
+	width:500PX;
+	height:300px;
+	border:2px solid lavender;
+	margin:10px 0px;
+	background-image:url('../image/historical.jpg');
+	background-position:center;
+	color:AliceBlue;
+	text-indent:90px;
+	background-color:rgba(0,0,0,0.5);
+	background-blend-mode:darken;
+	text-align:justify;
+	display:inline-block;
+	float:right;
+	background-size:cover;
+	background-attachment:fixed;
+}
+.box5 button
+{
+	text-decoration:underline;
+	font-size:14px;
+	text-align:center;
+	display:block;
+	margin:0px auto;	
+}
